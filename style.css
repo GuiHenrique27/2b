@@ -1,3 +1,5 @@
-header{
-    background-color: blueviolet;
+.cabecalho{
+    background-color: rgb(67, 119, 216);
+    color: green;
+    display: flex;
 }
