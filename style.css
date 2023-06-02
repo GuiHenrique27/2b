@@ -50,5 +50,15 @@ padding: 16px 0;
 }
 
 body{
-    font-family: 'Poppins',
+    font-family: 'Poppins'sans-serif;
+}
+
+.estudante-odos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
 }
